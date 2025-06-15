@@ -16,5 +16,45 @@ This project aims to analyze and forecast stock market trends for multiple stock
 
 ---
 
-## 📂 Project Structure
+---
+
+## 📈 Datasets Included
+
+Synthetic data generated for:
+
+- **AAPL** — Apple Inc.
+- **GOOGL** — Alphabet Inc.
+- **MSFT** — Microsoft Corp.
+- **AMZN** — Amazon.com Inc.
+- **TSLA** — Tesla Inc.
+
+Each file contains:
+
+- Date
+- Open
+- High
+- Low
+- Close
+- Adj Close
+- Volume
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+- Python 3.10+
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+- Scikit-learn
+- Statsmodels (ARIMA, SARIMA)
+- Prophet (Facebook Prophet)
+- TensorFlow / Keras (LSTM)
+- YFinance
+- Streamlit (Dashboard)
+
+
+
+
+
+
 
