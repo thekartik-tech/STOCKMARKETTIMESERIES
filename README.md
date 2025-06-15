@@ -16,8 +16,6 @@ This project aims to analyze and forecast stock market trends for multiple stock
 
 ---
 
----
-
 ## 📈 Datasets Included
 
 Synthetic data generated for:
